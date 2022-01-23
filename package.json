@@ -1,0 +1,24 @@
+{
+  "name": "e-commerce_backend",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atul-Kumar-Gupta/E-Commerce_backend.git"
+  },
+  "author": "Atul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atul-Kumar-Gupta/E-Commerce_backend/issues"
+  },
+  "homepage": "https://github.com/Atul-Kumar-Gupta/E-Commerce_backend#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
